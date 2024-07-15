@@ -1,0 +1,22 @@
+.streak-container {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+button {
+    background-color: #ff3f6c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+button:hover {
+    background-color: #ff6f91;
+}
